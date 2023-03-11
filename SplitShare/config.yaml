@@ -1,0 +1,5 @@
+database:
+  driverClass: org.postgresql.Driver
+  url: jdbc:postgresql://localhost:5432/<split_share>
+  user: postgresadmin
+  password: admin123

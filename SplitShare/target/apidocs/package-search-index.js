@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.config"},{"l":"com.dao.split"},{"l":"com.dao.user"},{"l":"com.models.split"},{"l":"com.models.user"},{"l":"com.resource.split"},{"l":"com.resource.user"},{"l":"com.splitshare"}];updateSearchResults();
